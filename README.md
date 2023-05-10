@@ -1,2 +1,2 @@
 # CG_LAB
-CG qt assignments
+CG opengl assignments
