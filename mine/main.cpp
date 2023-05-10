@@ -3,6 +3,7 @@
 #include <windows.h>
 #include <GL/glut.h>
 using namespace std;
+//new changes
 
 int main(int argc,char** argv)
 {
