@@ -7,7 +7,7 @@
 #include <stdlib.h>
 GLfloat xRotate,yRotate,zRotate;
 int flag=1;
-
+                                     // updating the folders to github
 void init(void)
 {
     glClearColor(0,0,0,0);    //give background colour to our window
